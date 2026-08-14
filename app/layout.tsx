@@ -101,6 +101,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+        <script defer src="https://analytics.129-159-229-170.sslip.io/script.js" data-website-id="4c707f81-6b7b-44da-acf6-6f907ce562e0"></script>
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
           rel="stylesheet"
