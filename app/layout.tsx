@@ -6,7 +6,7 @@ const siteUrl = "https://rudra496.github.io/cityguardai";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   verification: {
-    google: "NE4MzR6NIdQYAoPS52dBxjRxvB8TWUTt4aGM2Uachik",
+    google: [NE4MzR6NIdQYAoPS52dBxjRxvB8TWUTt4aGM2Uachik, "2h0hS6xG91EuQjYI1FZAHqQHxFmu7l70BmcSz62ZLmc"],
   },
     title: {
     default: "CityGuard AI — Autonomous Urban Risk & Incident Response Agent",
